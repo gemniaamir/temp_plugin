@@ -11,6 +11,8 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
+# temp_plugin
+
 This plugin is to show travelling images inside a carousel form. This is a simple widget. In it's first version it doesn't allow changes. However, in future I will add more travelling images into it. 
 
 
